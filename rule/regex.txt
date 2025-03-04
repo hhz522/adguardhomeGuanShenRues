@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: regex.txt
-! Last Modified: 2025-03-04 09:41:15
+! Last Modified: 2025-03-04 16:25:12
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://anti-ad.net/easylist.txt)
 ||da.hornbach.*^
@@ -304,6 +304,7 @@
 ||ping*.qq.com^
 ||player-feedback*.glomex.*^
 ||res*.pinpai8.cn^
+||stats*.credit-cooperatif.coop^
 ||prod.*.analytics.console.aws.a2z.com^
 ||rum*.a.trbcdn.net^
 ||sensorsdata*.read.duokan.com^
@@ -314,6 +315,7 @@
 ||rtlog*.tiktokv.us^
 ||p26.gejulm*.com^
 ||st-*.dynamicyield.com^
+||static*.365inews.com^
 ||prebid-*.rubiconproject.com^
 ||rum*.cdnvideo.ru^
 ||mssdk*.tiktokv.us^
@@ -329,6 +331,7 @@
 ||pixel-*.rubiconproject.com^
 ||ssp*.rtb.beeline.ru^
 ||n*adserv.com^
+||stats*.videonow.ru^
 ||s*.skencituer.com^
 ||mon*-*.tiktokv.us^
 ||pxl-*.ozone.ru^
@@ -348,6 +351,7 @@
 ||mon*-*.tiktokv.com^
 ||mistat.*.xiaomi.com^
 ||stat.*.v-56.com^
+||stats-*.p2pnow.ru^
 ||report*.appmetrica.webvisor.com^
 ||report.*.gbqofs.io^
 ||mobiadvert*.livesportmedia.eu^
@@ -367,14 +371,12 @@
 ||tracking-v*.a.run.app^
 ||zazgiyoh*.xyz^
 ||zcchyw*.xyz^
-||stats*.credit-cooperatif.coop^
 ||tracking*.euroads.fi^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||ulog*.*^
 ||w*.*skwai.com^
 ||xlog*-*.tiktokv.com^
 ||v*-ad.video.yximgs.com^
-||static*.365inews.com^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||track.*.roku.com^
 ||widgets.*.webengage.com^
@@ -389,7 +391,6 @@
 ||www.xxmh*.com^
 ||tblog-*.kgslb.com^
 ||zahrvfbd*.xyz^
-||stats*.videonow.ru^
 ||zbc6hy*.live^
 ||stlog*-local.kakao.com^
 ||tracking.*.miui.com^
@@ -404,7 +405,6 @@
 ||tnc*.tiktokv.us^
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||tupian888.*.bcebos.com^
-||stats-*.p2pnow.ru^
 ||yhsfsdv*.com^
 ||thezbpe5*.xyz^
 ||tnc16-*.byteoversea.com^
