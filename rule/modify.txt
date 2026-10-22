@@ -1,12 +1,19 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-10-22 21:36:55
+! Last Modified: 2026-10-23 03:50:23
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
 *-ad.sm.cn*
 *-be-pack-sign.pglstatp-toutiao.com*
 *-ad.wtzw.com*
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
+::1 localhost
+#@coolapk 1007
+::1 ip6-loopback
+::1 ip6-localhost
+::2 ip6-localhost
+::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt)
 2001:4860:4846:400::           geller-pa.googleapis.com
 2607:f8b0:4001:c68::64         www3.l.google.com
@@ -587,13 +594,6 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 ||*-analytics*.huami.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
-::1 localhost
-#@coolapk 1007
-::1 ip6-loopback
-::1 ip6-localhost
-::2 ip6-localhost
-::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 /^adsensor\./
 /^dwtrack\./
@@ -669,9 +669,9 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 /^139\.45\.197\.2(4[0-9]|5[0-4])/
 /^anon1.gt\d{6}.com$/
 .doublepimp.com^
-||*.libaishuo.com^
 -client-report.honkaiimpact3.com^
 ://kma.biz^
+.libaishuo.com^
 -telemetry.officeapps.live.com^
 /193.200.64.24:/
 .cpa1.ru^
@@ -724,8 +724,6 @@ wykop.pl$badfilter
 /^23\.109\.73\.\d{3}/
 ####################################################################################
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.stape.net
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@||click.appcast.io^|
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@||cl.link-ag.net^|
@@ -745,6 +743,7 @@ wykop.pl$badfilter
 @@||cmp.inmobi.com^|
 @@||api.karte.io^|
 @@|affiliate.notion.so^|
+.stape.net
 @@||links.e.theatlantic.com^|
 @@||go.adjust.com^|
 @@||goto.walmart.com^|
