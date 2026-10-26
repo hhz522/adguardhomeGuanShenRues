@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-10-26 02:48:00
+! Last Modified: 2026-10-26 12:00:05
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -724,38 +724,10 @@ wykop.pl$badfilter
 /^23\.109\.73\.\d{3}/
 ####################################################################################
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
-.1080.x.90.
-@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
-://sportframe*.co^
--970x90-
--ads2.
--ads1.
--1300-x-200-
--cina777.
--ad123-
--iklan2.
--banner728x90.
--pentaslot.
-://say.ac^
--iklan-gif-
--1080x140-
--1080x140.
--bandarkiu.
--728x90a.
-://sportframe*.org^
-://r.reklam*.com^
--1080x180-
--728-x-90-
--728-x-90.
 .stape.net
--iklan789-
--banner-ads.
--iklan1.
--ikln.
--indo666.
--tototix.gif
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@||click.appcast.io^|
+@@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
 @@||cl.link-ag.net^|
 @@||go.scorptec.com.au^|
 @@||classliving.lpages.co^|
@@ -767,6 +739,9 @@ wykop.pl$badfilter
 @@||envato.market^|
 @@||click.trafficguard.ai^|
 @@||thumbnail.thench.net^|
+-pentaslot.
+://say.ac^
+-iklan-gif-
 @@||cmp.inmobi.com^|
 @@||api.karte.io^|
 @@|affiliate.notion.so^|
@@ -777,6 +752,7 @@ wykop.pl$badfilter
 @@||vcentry3.valuecommerce.ne.jp^|
 @@|cdn.taboola.com^|
 @@||forum.notebookreview.com^|
+-indo666.
 @@||f-gear.ec-optimizer.com^|
 @@||infra-api.newrelic.com^|
 @@||href.li^|
@@ -786,6 +762,7 @@ wykop.pl$badfilter
 @@|beta.publishers.adsterra.com^|
 @@||ssai.aniview.com^|
 @@||cs.silverpop.com^|
+-1300-x-200-
 @@||hidive.com^|
 @@||cdn.duurzaam.greenchoice.nl^|
 @@||stash.roistat.com^|
@@ -797,9 +774,12 @@ wykop.pl$badfilter
 @@||remembering.ca^|
 @@||leechers-paradise.org^|
 @@||www.googleadservices.com^|
+-1080x140-
+-1080x140.
 @@||tr.rdrtr.com^|
 @@||brm-core-*.brsrvr.com^|
 @@||get.neofinancial.com^|
+://sportframe*.org^
 @@||crm-cdn.peek-cloppenburg.com^|
 @@||taiga.maven.io^|
 @@||obituaries.startribune.com^|
@@ -816,14 +796,18 @@ wykop.pl$badfilter
 @@||ap01.records.in.treasuredata.com^|
 @@||sbs.demdex.net^|
 @@||netatmo.commander1.com^|
+-ads2.
+-ads1.
 @@||support-widget.nakanohito.jp^|
 @@|beta.affiliates.adsterra.com^|
 @@||news.warhammer.com^|
 @@||www.statcounter.com^|
+-banner728x90.
 @@||oa.tr.line.me^|
 @@|help-advertisers.adsterra.com^|
 @@||api.docodoco.jp^|
 @@||obituaries.therecord.com^|
+-bandarkiu.
 @@||my.tealiumiq.com^|
 @@||sedge.nfl.com^|
 @@||admin.dable.io^|
@@ -833,6 +817,7 @@ wykop.pl$badfilter
 @@||5471782.fls.doubleclick.net^|
 @@||artifactory.appodeal.com^|
 @@||email.procook.co.uk^|
+-ikln.
 @@||daikoku.ebis.ne.jp^|
 @@||a.adwolf.ru^|
 @@||awin1.com^|
@@ -844,6 +829,7 @@ wykop.pl$badfilter
 @@||e.customeriomail.com^|
 @@||email.awscloud.com^|
 @@||cindyholbrook.lpages.co^|
+-ad123-
 @@||link.nzz.ch^|
 @@||static-v*.trbo.com^|
 @@||data.notify.macys.com^|
@@ -851,17 +837,21 @@ wykop.pl$badfilter
 @@||home.focusatwill.com^|
 @@||app.adjust.com^|
 @@||grp07.ias.rakuten.co.jp^|
+-728x90a.
 @@||acs-m.daraz.com.bd^|
 @@||link.meet5.net^|
 @@|core.crazyegg.com^|
 @@||aax-fe.amazon.co.jp^|
 @@||bcicl.*.evergage.com^|
 @@||id.i2i.jp^|
+-banner-ads.
 @@||emails.educause.edu^|
 @@||track.rutarget.ru^|
+://sportframe*.co^
 @@||catchup.thisisdax.com^|
 @@||cj.dotomi.com^|
 @@||gs.statcounter.com^|
+-970x90-
 @@||login.sendpulse.com^|
 @@||click.virt.exacttarget.com^|
 @@||link.morningbrew.com^|
@@ -874,6 +864,7 @@ wykop.pl$badfilter
 @@||nineto5mac-d.openx.net^|
 @@||click.avs.io^|
 @@||click.virt.s*.exacttarget.com^|
+://r.reklam*.com^
 @@||px.a8.net^|
 @@||torimochi.line-apps.com^|
 @@||hb.afl.rakuten.co.jp^|
@@ -882,9 +873,12 @@ wykop.pl$badfilter
 @@||partner.o2online.de^|
 @@|ezodn.com^|
 @@||vcentry2.valuecommerce.ne.jp^|
+-iklan789-
 @@||str.hit.gemius.pl^|
 @@|beta.partners.adsterra.com^|
 @@||ref.rbauction.com^|
+-tototix.gif
+.1080.x.90.
 @@|www.daraz.pk^|
 @@||sponsor.nitropay.com^|
 @@||logentries.com^|
@@ -892,15 +886,18 @@ wykop.pl$badfilter
 @@||acs-m.daraz.pk^|
 @@||unsubscribe.lhinsights.com^|
 @@||tags.crwdcntrl.net^|
+-cina777.
 @@||clk*.tradedoubler.com^|
 @@||cloud.notification-naviextras.com^|
 @@||www.datadoghq-browser-agent.com^|
 @@||data.digital.costco.ca^|
 @@||support-beacon.nakanohito.jp^|
+-iklan2.
 @@||spartaindependent.com^|
 @@||email.elitedangerous.com^|
 @@||app.appsflyer.com^|
 @@||anwb.webpower.eu^|
+-1080x180-
 @@||gate.first-id.fr^|
 @@||tms.capitalone.com^|
 @@||secureimage.securedataimages.com^|
@@ -909,6 +906,7 @@ wykop.pl$badfilter
 @@||cdn.us*.exponea.com^|
 @@|publishers.adsterra.com^|
 @@||action.metaffiliation.com^|
+-iklan1.
 @@||swasc.homedepot.com^|
 @@||cm-widget.nakanohito.jp^|
 @@||afi-b.com^|
@@ -944,6 +942,8 @@ wykop.pl$badfilter
 @@||79423.analytics.edgekey.net^|
 @@||tlh.gedidigital.it^|
 @@||pagead.l.doubleclick.net^|
+-728-x-90-
+-728-x-90.
 @@||www.dogpile.com^|
 @@||used.ca^|
 @@||click.cptrack.de^|
