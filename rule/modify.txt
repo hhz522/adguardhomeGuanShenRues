@@ -1,6 +1,6 @@
 [关圣®云去广告DNS 去广告规则列表]
 ! Title: modify.txt
-! Last Modified: 2026-11-15 23:28:58
+! Last Modified: 2026-11-16 04:53:55
 ! Homepage: https://github.com/guandasheng/TheBestAdrules/
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt)
 *-ad.video.yximgs.com*
@@ -587,6 +587,13 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 2603:1063:2001:215::365:ff1    ocws.officeapps.live.com
 2a00:1450:400b:c02::bc         alt5-mtalk.google.com
 2620:149:a23:f000::150         is4-ssl.mzstatic.com
+! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
+::1 localhost
+#@coolapk 1007
+::1 ip6-loopback
+::1 ip6-localhost
+::2 ip6-localhost
+::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://adrules.top/dns.txt)
 /^adsensor\./
 /^dwtrack\./
@@ -629,13 +636,6 @@ fd3e:4f5a:5b81::1              dns.msftncsi.com
 ||*register.appsflyersdk.com^
 /^.+stat\.kugou\.com/
 ||*.exaapi.com^
-! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward)
-::1 localhost
-#@coolapk 1007
-::1 ip6-loopback
-::1 ip6-localhost
-::2 ip6-localhost
-::3 ip6-localhost
 ! 👇This Part Merge from: GOODBYEADS (https://raw.githubusercontent.com/5whys-adblock/AdGuardHome-rules/main/rules/output_full.txt)
 @@||click.appcast.io^|
 @@/\.(gif|jpe?g|png|webp)#(\/?.+)?(\/(ad)s?\/|\/ad-)/
@@ -1126,7 +1126,6 @@ wykop.pl$badfilter
 *.myiee.
 /^31\.184\.20[0-3]\.\d{1,3}$/
 ://ww27.$denyallow=ww27.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
-@@://pyrofork.*.top^
 *.na7.
 /^(.*://)?204\.11\.56\.\d{1,3}(/.*)?$/
 *factoryoutletcanada.
@@ -1208,7 +1207,6 @@ wykop.pl$badfilter
 ://segment-cdn.
 *.bmgad.
 -tracking-pixel.
-@@://blog.*.top^
 ://ww39.
 -600x70.
 *shoesoutletonline.
@@ -1249,7 +1247,6 @@ wykop.pl$badfilter
 ://ww22.$denyallow=ww22.autotask.net|practically_always_leads_to_a_domain_parking_service_known_for_malware.*
 ://ww49.
 *.soua.
-@@://maven.*.top^
 ://ww37.
 *.cssyouxi.
 /^((https?|tcp|iquic)://)?\d\d?\.[a-z0-9-]{1,}\.biz(/.*)?$/
@@ -1323,7 +1320,6 @@ wykop.pl$badfilter
 *.jzunion.
 .m.gxwztv.com^
 ://46.161.31.
-@@/^.*(tech|project|linux).*\.top$/
 *.jasd.
 *usafactoryoutlet.com^
 *.gyy1314.
@@ -1346,7 +1342,6 @@ wykop.pl$badfilter
 *.bnet.
 ://dreemdmbabys.oss-cn-
 *.my4399.
-||*.top^$dnstype=~CNAME,denyallow=caitlin.top|callmebymygender.top|corriente.top|gdtot.top|nicenature.top|reminder.top|magocoro.top|castlevania.top|suiten.top|shucks.top|1stream.top|ambr.top|changlam10.top|changlam11.top|pdcdn1.top|pressplay.top|chillx.top|strims.top|thedesk.top|audioforyou.top|awavenue.top|reyhub.top|iboxs.top|adrules.top|hostingowy.top|to|yggtorrent.top|yggleak.top|asiaon.top|voxel.top|passt.top|polar.top|rifton.top|rugaming.top|doubledouble.top|hedon-haven.top|outlands.top|tk-web.top|qpmegathread.top|qmk.top|mgytr.top|girlskissing.top|luxferre.top|adderly.top|supremecloud.top|cldev.top|medoed.top|tooru.top|wodepa.top|rank.top|vino.top|snowshot.top|nemanja.top
 ://rum.collector.
 *.igalive.
 *.tiaosa.
